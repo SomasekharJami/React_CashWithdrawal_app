@@ -1,0 +1,78 @@
+.mainCon {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+}
+.innerCon {
+  width: 40vw;
+  padding: 20px;
+  border: none;
+  background-color: #150b3e;
+  border-radius: 10px;
+}
+.firstCon {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.imgP {
+  font-size: 1.5vw;
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 25px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.nameP {
+  font-size: 1.8vw;
+  color: #d4d2db;
+}
+.secondCon {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.subCon1 {
+  padding-right: 10px;
+}
+.balP {
+  color: #585076;
+  font-size: 2vw;
+}
+.balH {
+  font-size: 2.5vw;
+  color: #d4d2db;
+}
+.caption {
+  font-size: 1vw;
+  color: #585076;
+}
+.withH {
+  padding-left: 10px;
+  font-size: 2.2vw;
+  color: #d4d2db;
+}
+.withP {
+  padding-left: 10px;
+  font-size: 1.8vw;
+  color: #d4d2db;
+}
+.thirdCon {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

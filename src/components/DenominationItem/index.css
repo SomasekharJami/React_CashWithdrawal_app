@@ -1,0 +1,16 @@
+.listItem {
+  list-style: none;
+  width: 15vw;
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+  margin: 10px;
+}
+.bton {
+  font-size: 2vw;
+  border: none;
+  background-color: transparent;
+  color: #d4d2db;
+}
